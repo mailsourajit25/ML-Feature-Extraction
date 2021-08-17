@@ -28,3 +28,6 @@
 **Output Inferences**<br>
 The output inference for each dataset can be found in their respective folders
 
+**References**
+[Mutual Information between Discrete and Continuous Data Sets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0087357)
+
