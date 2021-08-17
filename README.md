@@ -14,7 +14,7 @@
 	* **A.** Applied the three filter methods(1. **Mutual Info[f1]** 2. **F Classif[f2]** and 3.**T-Test[f3]** ) on
 		the three datasets to get important features( N: No. of selected feature is not restricted butit should be less than 20% of toat features). Used KNN(C1) and SVM(C2) for
 		Classification. Report Accuray, F-Score, and Confusion Matrix.
-	* **B.** Selected the most important N/3 features from each of these three filter methods(f1,f2,f3).<br><img src="https://render.githubusercontent.com/render/math?math=F =  f_1\cupf_2\cupf_3"> 
+	* **B.** Selected the most important N/3 features from each of these three filter methods(f1,f2,f3).<br><img align="center" src="https://render.githubusercontent.com/render/math?math=F =  f_1 \cup f_2 \cup f_3"> 
 		<br>Classified the test data with the Classifiers(C1 and C2) and Compared them with the above
 		result.
 	* **C.** Now applied feature selection in a cascaded manner and Classify with C1 and C2.
